@@ -8,6 +8,8 @@ namespace Rebasing
             public double Age { get; set; }
 
             public string name { get; set; }
+
+            public double height { get; set; }
         }
     }
 }
