@@ -6,6 +6,8 @@ namespace Rebasing
         public Person()
         {
             public double Age { get; set; }
+
+            public string name { get; set; }
         }
     }
 }
