@@ -5,6 +5,7 @@ namespace Rebasing
     {
         public Person()
         {
+            public double Age { get; set; }
         }
     }
 }
