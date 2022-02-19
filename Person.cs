@@ -5,7 +5,7 @@ namespace Rebasing
     {
         public Person()
         {
-            public double Age { get; set; }
+            public double Age { get; set; } = 30;
 
             public string name { get; set; }
 
